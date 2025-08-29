@@ -33,6 +33,8 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
   &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
